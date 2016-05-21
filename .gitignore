@@ -1,11 +1,8 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
+# Node Modules folder
+node_modules/
 
-# Other files and folders
-.settings/
+# The reports folder
+reports/*.*
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+
+ 
