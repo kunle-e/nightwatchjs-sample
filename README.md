@@ -9,3 +9,9 @@ Project includes selenium-server-standalone-2.53.0.jar
 
 <b>Run tests:</b><br/>
 nightwatch \<path to test\>
+
+<br/>
+Extra<br/>
+Sometimes selenium server may need to be shutdown manually.<br/>
+Shutdown selenium server:<br/>
+http://localhost:4444/selenium-server/driver/?cmd=shutDownSeleniumServer
