@@ -1,7 +1,7 @@
 module.exports = {
     'Demo test Github no page objects or global data' : function (browser) {
-        var username = "atentaten";
-        var password = "656-34332-3223atentaten-netatneta$%^&#@#99323";
+        var username = "your-github-username";
+        var password = "your-github-password";
         browser
             .url('https://github.com')
             .waitForElementVisible('body', 3000)
