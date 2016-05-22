@@ -8,7 +8,7 @@ Project includes selenium-server-standalone-2.53.0.jar
 * In the project root install nightwatch.js: <br/>npm install nightwatch
 
 <b>Run tests:</b><br/>
-nightwatch \<path to test\>
+nightwatch --test tests/github.js
 
 <br/>
 Extra<br/>
